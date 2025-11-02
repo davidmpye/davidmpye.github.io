@@ -11,5 +11,9 @@
 		- [100 channel modification](./pmr/storno/100channelmod/100channelmod.md)
 		- [Adding 1750Hz toneburst](./pmr/storno/toneburst/toneburst.md)
 		- ['Portable' Carry Case](./pmr/storno/carrycase/carrycase.md)
-
+	- [Tait](./pmr/tait/index.md)
+		- [Useful files](./pmr/tait/files/files.md)
+		- [VHF 2M conversion](./pmr/tait/2m_conversion/2m_conversion.md)
+		- [VHF Diode Matrix calculations](./pmr/tait/vhf_diode_matrix/vhf_diode_matrix.md)
+		- [UHF Diode Matrix calculations](./pmr/tait/uhf_diode_matrix/uhf_diode_matrix.md)
 	- [Dymar](./pmr/dymar/index.md)
