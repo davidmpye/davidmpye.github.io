@@ -15,4 +15,4 @@ This website mainly contains:
 
 If you'd like to get hold of me, I use Gmail for personal emails, and my username is davidmpye.
 
-I am also on Mastodon [https://hachyderm.io/@DavidP]](https://hachyderm.io/@DavidP)
+I am also on Mastodon [@DavidP](https://hachyderm.io/@DavidP)
