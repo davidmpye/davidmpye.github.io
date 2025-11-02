@@ -6,6 +6,7 @@ Welcome to my website!  I do a few things, personally and professionally.  This 
 * Amateur radio (licenced radio amateur, M0DMP)
 * IoT/Smart home things, using Homeassistant
 * Electronics repair
+* Member of [MakerSpace](https://www.makerspace.org.uk), a community Hackspace based in Newcastle/Gateshead
 
 This website mainly contains:
 
