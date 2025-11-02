@@ -7,7 +7,7 @@ authors                 = ["David Pye"]
 language                = "en"
 multilingual            = false
 src                     = "src"
-title                   = "Template"
+title                   = "David Pye"
 
 [output.html]
 additional-css          = [ "section-lines.css" , "version-commit.css" ]
