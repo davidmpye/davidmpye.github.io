@@ -8,10 +8,9 @@ The guides are accessible from the site index.
 
 ## Useful files
 
-[GWM Radio's Storno conversion guide (VHF)](./GWMstorno.pdf)
-
-[CQM 5110 Service Manual (VHF)](./CQM5110_Service_manual.pdf)
-
-[CQM 5660 Service Manual (UHF)](./CQM5660_Service_manual.pdf)
+* [GWM Radio's Storno conversion guide (VHF)](./GWMstorno.pdf)
+* [Ham Radio Today's conversion guide (UHF)](./Storno_5000_Conversion_to_70cm_HRT_199603.pdf)
+* [CQM 5110 Service Manual (VHF)](./CQM5110_Service_manual.pdf)
+* [CQM 5660 Service Manual (UHF)](./CQM5660_Service_manual.pdf)
 
 
